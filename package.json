@@ -1,0 +1,30 @@
+{
+  "name": "reverie2-theme",
+  "version": "1.0.0",
+  "description": "A Zurb Foundation 6 bootstrap theme for WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neovea/reverie2.git"
+  },
+  "keywords": [
+    "foundation",
+    "html5",
+    "responsive",
+    "wordpress",
+    "theme",
+    "flexbox",
+    "css3",
+    "desirelabs",
+    "zurb"
+  ],
+  "author": "Franck LEBAS*",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neovea/reverie2/issues"
+  },
+  "homepage": "https://github.com/neovea/reverie2#readme"
+}
